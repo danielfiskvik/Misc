@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T13:28:06.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="J-lg6Ndh2jxj2qx_dnAV" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-29T13:29:03.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="iJTs-Jj22DzLXiUz-QNT" version="13.6.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2788" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="1371" value="SimpleInjector /&lt;br&gt;Autofaq" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="408.5" y="146.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1372" value="ElasticSearch" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1372" value="ElasticSearch /&lt;br&gt;GraphQL / OData" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="86.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1373" value="MySQL / MongoDB" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
