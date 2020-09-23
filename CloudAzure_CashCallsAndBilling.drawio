@@ -1,11 +1,11 @@
-<mxfile modified="2020-09-23T13:39:19.684Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="fxBQlQL3VOZgUVN6hG3K" version="13.7.3" type="github">
+<mxfile modified="2020-09-23T13:39:35.556Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="pUu_5glCNh8Pv5LYSuE6" version="13.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="883" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AcxdMaKK0mU5kZiv2lnr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="440" height="400" as="geometry" />
+          <mxGeometry x="200" y="160" width="460" height="400" as="geometry" />
         </mxCell>
         <mxCell id="AcxdMaKK0mU5kZiv2lnr-9" value="Azure Blob&lt;br&gt;Storage&lt;br&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="39" y="499.99999999999994" width="62" height="53" as="geometry" />
